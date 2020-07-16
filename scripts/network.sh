@@ -56,7 +56,7 @@ case "$MNO" in
                         ;;
                 "20895")
                         echo "Data configuration for Orange IoT Lab"
-                        APN="iot"
+                        APN="IoT"
                         auth="none"
                         ;;
                 *)
